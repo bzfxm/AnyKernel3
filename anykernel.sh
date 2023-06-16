@@ -1,17 +1,17 @@
 ### AnyKernel3 Ramdisk Mod Script
-## osm0sis @ xda-developers
+## EasonKissuny
 
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=IMMENSITY by EasonKissuny 
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
+device.name1=cmi
+device.name2=umi
 device.name3=toroplus
 device.name4=tuna
 device.name5=
