@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=IMMENSITY by EasonKissuny 
+kernel.string=IMMENSITY_SU by EasonKissuny 
 do.devicecheck=1
 do.modules=0
 do.systemless=1
